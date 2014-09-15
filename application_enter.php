@@ -1,0 +1,4 @@
+<?php
+
+ClaApplication::LoadConfig('myapp');
+
